@@ -1,0 +1,16 @@
+# Configuración de archivos y carpetas que no deben ser rastreados por Git
+# Configuración 
+.vscode/
+
+# Tests y archivos generados por la compilación
+*.class
+test/
+*.jar
+bin/
+out/
+
+# Prettier
+node_modules/
+*.json
+prettier.config.js
+.prettierrc
