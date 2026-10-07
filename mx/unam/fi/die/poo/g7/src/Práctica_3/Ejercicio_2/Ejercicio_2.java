@@ -1,7 +1,7 @@
 // Programa que recibe un número entero de 5 dígitos y verifica si es un palíndromo
 
 // Importes
-package mx.unam.fi.die.poo.g7.src.Práctica_3;
+package mx.unam.fi.die.poo.g7.src.Práctica_3.Ejercicio_2;
 import java.util.Scanner;
 
 public class Ejercicio_2 {

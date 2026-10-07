@@ -1,10 +1,10 @@
 // Programa que tiene una calculadora básica con operaciones 1. suma, 2. resta, 3. multiplicación, 4. división, 5. potencia, 6. raíz y 7. módulo
 
 // Importes
-package mx.unam.fi.die.poo.g7.src.Práctica_1;
+package mx.unam.fi.die.poo.g7.src.Práctica_1.Ejercicio_2;
 import java.util.Scanner;
 
-public class Practica_1 {
+public class Ejercicio_2 {
 
   public static void main(String[] args) {
     // Declaramos opcion fuera del while
