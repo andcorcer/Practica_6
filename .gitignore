@@ -2,15 +2,14 @@
 # Configuración 
 .vscode/
 
-# Tests y archivos generados por la compilación
-*.class
-test/
-*.jar
-bin/
-out/
+
 
 # Prettier
 node_modules/
 *.json
 prettier.config.js
+.prettierrc
+
+// Ignorar la carpeta Práctica_7 en cualquier ubicación dentro del proyecto
+**/Práctica_7/
 .prettierrc
