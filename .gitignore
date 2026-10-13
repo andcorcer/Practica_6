@@ -2,8 +2,6 @@
 # Configuración 
 .vscode/
 
-
-
 # Prettier
 node_modules/
 *.json
