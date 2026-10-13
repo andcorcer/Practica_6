@@ -1,6 +1,6 @@
 # Practica_6
 
-**Asignatura**: Programación Orientada a Objetos (Grupo 07)  
+**Asignatura:** Programación Orientada a Objetos (Grupo 07)  
 
 **Institución:** Facultad de Ingeniería, UNAM — Laboratorio de Computación  
 
