@@ -14,3 +14,4 @@
 
 Link a archivo LaTeX `https://www.overleaf.com/8875526548kjqxnbhzckwf#237c5e`
 
+Link a video `https://www.youtube.com/watch?v=4K2Yi7Ne5Ks`
